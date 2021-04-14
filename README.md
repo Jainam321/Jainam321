@@ -1,4 +1,4 @@
-### Hi Jainam there 👋
+### Hi Jainam here 👋
 - I’m currently working on My DSA and Problem Solving skills 
 - 📫 Reach me: mjainam18@gmail.com
 
