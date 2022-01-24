@@ -6,5 +6,5 @@
 
 <!-- ![Jainam's github stats](https://github-readme-stats.vercel.app/api?username=Jainam321&theme=algolia&show_icons=true) -->
 
-![Jainam's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Jainam's github stats](https://github-readme-stats.vercel.app/api?username=Jainam321&show_icons=true&theme=radical)
 
